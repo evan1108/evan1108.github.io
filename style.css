@@ -1,0 +1,26 @@
+
+.navbar li {
+    display: inline-block;
+    font-family: "Arial";
+    padding: 20px;
+}
+
+.headers {
+    color: #20b2aa;
+}
+
+.inline_image{
+    display: inline-block;
+}
+
+ul.nav li a, ul.nav li a:visited {
+    color: #fff !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #fff !important;
+}
+
+ul.nav li.active a {
+    color: #fff !important;
+}
